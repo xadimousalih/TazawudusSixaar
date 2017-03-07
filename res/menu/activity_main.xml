@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<!--     <item -->
+<!--         android:id="@+id/menu_download" -->
+<!--         android:icon="@drawable/ic_action_download" -->
+<!--         android:showAsAction="ifRoom" -->
+<!--         android:background="@null" -->
+<!--         android:title="@string/menu_download"/> -->
+<!--     <item -->
+<!--         android:id="@+id/menu_start" -->
+<!--         android:icon="@drawable/ic_action_start"  -->
+<!--         android:showAsAction="ifRoom" -->
+<!--         android:background="@null" -->
+<!--         android:title="@string/menu_start"/> -->
+<!--     <item -->
+<!--         android:id="@+id/menu_stop" -->
+<!--         android:icon="@drawable/ic_action_stop" -->
+<!--         android:showAsAction="ifRoom" -->
+<!--         android:background="@null" -->
+<!--         android:title="@string/menu_stop"/> -->
+    <item
+        android:id="@+id/menu_about"
+        android:icon="@drawable/ic_action_about"
+        android:showAsAction="never"
+        android:background="@null"
+        android:title="@string/menu_about"/>
+    <item
+        android:id="@+id/app_exit"
+        android:icon="@drawable/ic_action_settings"
+        android:showAsAction="never"
+        android:background="@null"
+        android:title="@string/app_exit"/>
+
+</menu>
